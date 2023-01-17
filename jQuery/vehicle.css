@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(50deg, rgb(150, 173, 177), rgb(23, 231, 221));
+
+}
+
+#ANV{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    background-color: royalblue;
+    padding: 5px;
+}
+
+#Form{
+    text-align: center;
+}
+
+#VS{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    background-color: royalblue;
+    padding: 5px;
+}
+
+#tb1{
+    background-color: dodgerblue;
+}

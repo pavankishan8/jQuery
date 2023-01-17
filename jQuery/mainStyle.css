@@ -1,0 +1,31 @@
+body{
+    background-color: lightcyan;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+    padding: 50px;
+    background: linear-gradient(45deg, rgb(255, 0, 0),rgb(34, 34, 255));
+    font-size: 38pt;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+li, a{
+    display: inline-block;
+    background-color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: brown;
+    color: whitesmoke;
+}
