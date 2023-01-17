@@ -1,0 +1,167 @@
+h1 {
+    color: whitesmoke;
+    background-color: #df19d9;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+body{
+    background-image: linear-gradient(to right, red, orange);
+}
+
+
+div.container {
+    text-align: center;
+    padding: 20px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+
+img.star {
+    width: 15%;
+    border-radius: 50%;
+  }
+
+#foot_1{
+    text-align: center;
+    padding: 20px;
+}
+
+#restaurants {
+    border: 1px solid #ddd;
+    display: flex;
+    
+}
+
+
+
+#restaurants .slide {
+    height: 110px;
+    line-height: 110px;
+    text-align: center;
+    margin-right: 2px;
+    padding: 10px;
+
+}
+
+.slide > img{
+    width: 100%;
+    height: 150px;
+}
+
+
+body {
+    background: linear-gradient(45deg, orange, rgb(252, 86, 36));
+}
+
+#SH {
+    background: linear-gradient(45deg, rgb(98, 0, 255), rgb(216, 87, 255));
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imgcontainer {
+
+    text-align: center;
+    padding: 20px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+form {
+    padding: 20px;
+}
+
+.row {
+    margin: 8px 16px;
+}
+
+
+.row>.column {
+    padding: 10px;
+}
+
+.column {
+    float: left;
+    width: 31.33%;
+  }
+
+
+
+.content {
+    background-color: white;
+    padding: 15px;
+}
+
+#Menu{
+    font-size: 40px;
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#myBtnContainer{
+    text-align: center;
+}
+
+/* #foot1{
+      background-color: blueviolet;
+  
+} */
+
+.counter{
+    width: 15%;
+    display:flex;
+    justify-content: space-between;
+}
+
+.row button {
+    border: none;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .row button:hover {
+    opacity: 0.7;
+  }
+
+  .fixed{
+    background-color: grey;
+    bottom: 20px;
+    position: fixed;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    text-align: center;
+    width: 98%;
+    
+}
+
+.fixed button {
+    
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .fixed button:hover {
+    opacity: 0.7;
+  }
+
